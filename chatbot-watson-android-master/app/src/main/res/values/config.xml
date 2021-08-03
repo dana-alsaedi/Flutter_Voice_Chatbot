@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Watson Assistant service credentials-->
+    <string name="assistant_apikey">w7tshqK-n2Srh8ow3ZtrmjkJ7skPmhnehpebATzY7JIB</string>
+    <string name="assistant_url">https://api.eu-de.assistant.watson.cloud.ibm.com/instances/577cf4c6-bc6d-45f2-8f67-817b73ac8329</string>
+
+
+    <!--Watson Speech To Text(STT) service credentials-->
+    <string name="STT_apikey">Y3aLQIVb9ZB2Yi6jJ9ffUzkaI8DWyOGeUzdeFsx0s16b</string>
+    <string name="STT_url">https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/3b2812fa-41fc-4d74-8154-880474bf9d90</string>
+
+
+    <!--Watson Text To Speech(TTS) service credentials-->
+    <string name="TTS_apikey">D1Qd_dD1uvRjtLxOnY6YWj7RFP_tSsv6pDGQONE0XEZ5</string>
+    <string name="TTS_url">https://api.au-syd.text-to-speech.watson.cloud.ibm.com/instances/51d8e3fd-7511-46c3-b4ac-79c3a6986747</string>
+
+</resources>
